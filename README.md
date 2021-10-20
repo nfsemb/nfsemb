@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Niels Semb
-- 👀 I’m interested in Skiing
-- 🌱 I’m currently learning Web programming
+
 
 
 <!---
